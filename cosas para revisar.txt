@@ -1,0 +1,45 @@
+Cosas para revisar sobre el programa final poo
+
+Admin
+	line 34
+claseData
+	line 39
+	line 55
+	line 64
+	line 128
+	line 147
+	line 158
+	line 174
+	line 231
+	line 364
+	line 392
+comparaDatos
+	line 35 to 45
+correoArchivo
+	line 88
+	line 92
+	line 94
+inicioSesion
+	line 42
+	line 103 to 105
+	line 112 to 114
+	line 138
+	line 151 to 156
+	line 212
+	line 221
+	line 342
+	line 356
+	line 491 to 492
+	line 636
+	line 640
+	line 670 to 676
+	line 695 to 696
+	line 
+intento
+	noai
+Main
+	line 9 to 10
+superAdmin
+	noai
+usuario
+	line 75 to 77
